@@ -1,4 +1,4 @@
-// province.js
+// province.js - province service passed to MainController
 
 (function(){
 
